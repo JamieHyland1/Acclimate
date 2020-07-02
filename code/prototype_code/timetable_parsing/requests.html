@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ajax 1 - Text File</title>
+</head>
+<body>
+
+	<button id="button">Get Text File</button>
+	<br><br>
+
+	<div id="timetable"></div>
+
+	<script type="text/javascript">
+		// document.getElementById("button").addEventListener("click", loadText)
+
+		// function loadText() {
+		// 	var xhr = new XMLHttpRequest();
+		// 	const url='https://www.dcu.ie/registry/timetables.shtml';
+		// 	xhr.open("GET", url);
+		// 	xhr.send();
+		// 	//this is old (onreadystatechange)
+		// 	xhr.onload = function() {
+		// 		if (this.status == 200){
+		// 			console.log(this.responseText)
+		// 		}
+		// 	}
+		// }
+
+		var fetch = require("axios")
+
+		fetch.get("https://www101.dcu.ie/timetables/feed.php?prog=CASE&per=3&week1=19&week2=30&hour=1-20&template=student")
+		.then(function (response) {
+			console.log(response.data);
+			document.getElementById("timetable").innerHTML(response)
+		})
+
+		.catch(function (error) {
+			console.log(error);
+		})
+
+
+	// HTTP STATUSES
+	// 200: "Ok"
+	// 403: "Forbidden"
+	// 404: "Not Found"
+	</script>
+
+</body>
+</html>

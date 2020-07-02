@@ -1,0 +1,267 @@
+[33mcommit e408464751d3e93446df0631c8cabeda7c3b10ac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Sun Feb 3 17:08:29 2019 +0000
+
+    Added comments and basic cookie implementation
+
+[33mcommit adddac19f2d3f9efde33842330dae38d2099214e[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Sun Feb 3 17:07:53 2019 +0000
+
+    Added placeholder image for homepage
+
+[33mcommit 1f2b8dc103b60a672af5368d1eba6812d15eb52a[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Sun Feb 3 17:07:12 2019 +0000
+
+    Features Component for homepage
+
+[33mcommit 122c45da0121eee06833a9439bb6773c2267ceb6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Sun Feb 3 12:17:18 2019 +0000
+
+    First draft of React App
+
+[33mcommit 27ea62fd22467a944a23b5d035a9d5f8c02d4773[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Sun Feb 3 12:16:50 2019 +0000
+
+    First draught of SQL API
+
+[33mcommit 282e852d4b854fd346b50725c6bca4dbc973a5f2[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Sat Feb 2 16:11:51 2019 +0000
+
+    Add new file
+
+[33mcommit 2608228d22ae8ea90fd8e96d843e59ef3d51c9c9[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Sat Feb 2 16:11:12 2019 +0000
+
+    Add new file
+
+[33mcommit 95a6330fb306123fa15035a9ded4157630c07602[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Sat Feb 2 16:09:12 2019 +0000
+
+    Add new directory
+
+[33mcommit 1a4fef45782908dbbf592362dcce69a5818f29a2[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Sat Feb 2 16:08:23 2019 +0000
+
+    Add new directory
+
+[33mcommit f216cac545bfce84e007c208e7794c40e5959389[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Fri Dec 7 16:10:01 2018 +0000
+
+    added contents
+
+[33mcommit 643dd3e268ced4fe7ba0c483d02f4ad98cf3863d[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Fri Dec 7 15:57:31 2018 +0000
+
+    added overview
+
+[33mcommit 8a3ad93a832c1e7c8d3bfb49d35e5e1d7f7e7634[m
+Merge: 3fd4e94 8554bd1
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Fri Dec 7 15:52:02 2018 +0000
+
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/aliu2/2019-ca326-uali-autismsupportsystem
+
+[33mcommit 3fd4e941db02993715f6a5376ff06f499653133e[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Fri Dec 7 15:51:46 2018 +0000
+
+    added timeline and finishing touches (still open to change, even after submission)
+
+[33mcommit 8554bd15ec479bd8e296f8947e0ce6f59d28f894[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Fri Dec 7 15:45:42 2018 +0000
+
+    Upload New File
+
+[33mcommit 42856778d513c1af9e3d5d245728bc2545f9b95a[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Fri Dec 7 13:23:51 2018 +0000
+
+    added Use Cases
+
+[33mcommit b810e737cadd8b4e3dbcff589bb87dc6b8c98f0c[m
+Merge: f7eca05 94bbf21
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Fri Dec 7 12:21:05 2018 +0000
+
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/aliu2/2019-ca326-uali-autismsupportsystem
+
+[33mcommit f7eca05ad571a6d05903ca52d6cd9252ca8c9cc4[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Fri Dec 7 12:20:07 2018 +0000
+
+    added change management diagram
+
+[33mcommit 94bbf212aa6857e28f4c98762331294c81cddea4[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Fri Dec 7 12:12:39 2018 +0000
+
+    Upload New File
+
+[33mcommit 6c0a03cabd0e53b1cb5671acf5500e29a0a4a95e[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Thu Dec 6 23:54:45 2018 +0000
+
+    fixed major merge issue and tweaked section 3
+
+[33mcommit 4e0134380cfdb331288be726368f4017c080948c[m
+Merge: 5c61be7 da800a2
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Thu Dec 6 21:52:17 2018 +0000
+
+    further refined
+
+[33mcommit 5c61be7f7e6c5327dcac24389e4b074e35f66796[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Thu Dec 6 21:49:41 2018 +0000
+
+    further refined
+
+[33mcommit da800a2317479bac85106dbda9c5a58df424dfac[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Thu Dec 6 20:44:38 2018 +0000
+
+    Finished section 3.6
+
+[33mcommit ddc84f8510f212d3fcf68b779eafd34bc91fd22c[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Thu Dec 6 19:59:10 2018 +0000
+
+    .
+
+[33mcommit 44ac504f385203315546774979fefeb268eaab46[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Thu Dec 6 15:56:09 2018 +0000
+
+    finished 3.6
+
+[33mcommit ddb5cbdc1a9e79d7a25d4fe102712a58983b1d04[m
+Merge: 8cd61ef c785ee3
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Thu Dec 6 15:26:34 2018 +0000
+
+    .
+
+[33mcommit 8cd61ef08bd52ff5b1bf95a2eaf3083c5552bb92[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Thu Dec 6 15:23:32 2018 +0000
+
+    Image Test
+
+[33mcommit c785ee3a38c624590a9a53de03e6116d38c7be4c[m
+Author: Jamie Hyland <jamie.hyland26@mail.dcu.ie>
+Date:   Thu Dec 6 15:14:25 2018 +0000
+
+    Update functional_spec.md
+
+[33mcommit f1bb11fd72357734b651466b58c48c06198fa9e9[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Thu Dec 6 15:12:50 2018 +0000
+
+    Added 3.4
+
+[33mcommit 730f90c6257b82b91c957671cd78154c5e1f9835[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Thu Dec 6 15:07:18 2018 +0000
+
+    ERD diagram
+
+[33mcommit ea62b8e1a30dad38ec029398a13f887208cfbcff[m
+Author: JamieHyland1 <jamiehyland01@gmail.com>
+Date:   Thu Dec 6 13:04:27 2018 +0000
+
+    Added section 3-3.3
+
+[33mcommit 3127d6f21d8595d6d0877f7487eb65136bc9b08c[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Wed Dec 5 23:04:22 2018 +0000
+
+    rewrote most of section 2, still require some minor tweaks
+
+[33mcommit 7e4ae8ddba566012be38c3c3c2b1224730ea2315[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Wed Dec 5 17:43:35 2018 +0000
+
+    fixed sub-sections of section 2
+
+[33mcommit 6f45a7bddb684245c0bdacba2f9155d39da04450[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Tue Dec 4 23:23:42 2018 +0000
+
+    fixed some errors and cleaned up formatting
+
+[33mcommit f2bed10f70355926b27ca25e9922cfa34e5d507e[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Tue Dec 4 21:01:13 2018 +0000
+
+    updated product perspective section to include details on another university's mentorship program
+
+[33mcommit 35d6197f05bbe0999066a7eac80cbb886220f79f[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Tue Dec 4 20:14:30 2018 +0000
+
+    adding the functional spec
+
+[33mcommit f618536a020b2594ca372a8f47970d19ef028dc5[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Tue Dec 4 20:11:07 2018 +0000
+
+    Delete .gitkeep
+
+[33mcommit f7a32824e3442eff20e75f95f7672d0ab58b8ad2[m
+Author: Uzair Ali <uzaira960@gmail.com>
+Date:   Tue Dec 4 20:10:23 2018 +0000
+
+    fixed folder name
+
+[33mcommit 5dc3f3437ee1b5e669517546bd3ab7503fade1a7[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Thu Nov 1 18:09:47 2018 +0000
+
+    Upload project proposal
+
+[33mcommit 64105acf644e86e073d9606c01af5f424656ca71[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Thu Nov 1 16:35:02 2018 +0000
+
+    Adding the proposal directory
+
+[33mcommit 537feef0816d67161c370720bb172f7cc6836bbf[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Thu Nov 1 16:34:35 2018 +0000
+
+    Adding the technical manual directory
+
+[33mcommit a288e0a8c056d7cae11607cc3ad9c7c3306b0b97[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Thu Nov 1 16:33:01 2018 +0000
+
+    Adding the user manual directory
+
+[33mcommit 55049a35173a3139dbe28c145ef5e6f7acc8bf54[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Thu Nov 1 16:30:52 2018 +0000
+
+    Adding the functional code directory
+
+[33mcommit 19b70f49817f1645e2b3e9b34efd64c9e6663810[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Thu Nov 1 16:30:05 2018 +0000
+
+    Adding the code directory
+
+[33mcommit ff05d720b21817e716511679adb115360647f72f[m
+Author: Uzair Ali <uzair.ali2@mail.dcu.ie>
+Date:   Thu Nov 1 16:18:59 2018 +0000
+
+    Initial commit

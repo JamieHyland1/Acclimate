@@ -1,0 +1,31 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "An SQL api to send and recieve data from a react application",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cookie": "^0.3.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.1-alpha.3",
+    "express-mysql-session": "^2.1.0",
+    "express-session": "^1.15.6",
+    "hash.js": "^1.1.7",
+    "mysql": "^2.16.0",
+    "promise-mysql": "^3.3.1",
+    "socket.io": "^2.2.0"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "author": "Jamie Hyland",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "supertest": "^3.4.2",
+    "supertest-session": "^3.3.0"
+  }
+}
